@@ -24,7 +24,6 @@ int main() {
     {
         A *= -1;
         pm = !pm;
-        //cout << pm;
     }
     if (B < 0)
     {
